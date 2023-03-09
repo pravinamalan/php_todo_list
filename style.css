@@ -1,0 +1,14 @@
+.pagination a {
+    font-weight: bold;
+    font-size: 13px;
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.pagination a.active {
+    background-color: #fe0000;
+    color: white !important;
+}
